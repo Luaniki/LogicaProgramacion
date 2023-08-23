@@ -1,0 +1,7 @@
+{
+  "name": "LogicaProgramacion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
